@@ -1,6 +1,6 @@
-<template>
+<template lang="pug">
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    h1 {{ msg }}
     <p>
       For guide and recipes on how to configure / customize this project,<br>
       check out the
